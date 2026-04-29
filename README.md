@@ -42,8 +42,8 @@ Follow these steps to set up the project locally:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/smart-choice-fintech.git
-cd smart-choice-fintech
+git clone https://github.com/yourusername/Home-Loan-Page.git
+cd Home-Loan-Page
 ```
 
 ### 2️⃣ Install dependencies
