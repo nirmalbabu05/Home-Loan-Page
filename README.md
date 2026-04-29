@@ -39,31 +39,36 @@
 
 Follow these steps to set up the project locally:
 
-1️⃣ **Clone the repository**
+### 1️⃣ Clone the repository
 
 ```bash
-git clone [https://github.com/yourusername/smart-choice-fintech.git](https://github.com/yourusername/Home-Loan-Page.git)
-cd Home-Loan-Page
+git clone https://github.com/yourusername/smart-choice-fintech.git
+cd smart-choice-fintech
+```
 
-2️⃣ Create a Virtual Environment (Optional but recommended)
+### 2️⃣ Install dependencies
 
-Bash
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-
-3️⃣ Install dependencies
-
-Bash
+```bash
 pip install -r requirements.txt
+```
 
-4️⃣ Start the development server
+### 3️⃣ Start the development server
 
-Bash
+```bash
 python app.py
-5️⃣ Open the project in your browser at:
-http://127.0.0.1:5001/
+```
 
-📜 License
+### 4️⃣ Open the project in your browser at:
+
+```text
+http://127.0.0.1:5001/
+```
+
+---
+
+## 📜 License
+
 This project is for educational purposes and aims to demonstrate a real-world FinTech & Core Banking System using modern web technologies and AI logic.
 
 Made with ❤️ by Nirmal Babu V M
+
